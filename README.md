@@ -1,1 +1,1 @@
-# lead-tracker-extension
+  Learnt about eventListeners, localStorages, templates
